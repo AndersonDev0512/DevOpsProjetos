@@ -7,3 +7,4 @@ cat <<EOT >> /etc/hosts
 192.168.56.13 app01
 192.168.56.14 db01
 EOT
+sudo ansible-galaxy install geerlingguy.mysql
