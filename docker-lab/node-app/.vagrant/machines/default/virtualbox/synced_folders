@@ -1,0 +1,1 @@
+{"nfs":{},"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/anderson/Documents/DevOpsProjetos/docker-lab/node-app","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
