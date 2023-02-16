@@ -1,0 +1,12 @@
+Log created: 2023-02-16T01:45:23.153737000Z
+Process ID:  49233 (0xc051)
+Parent PID:  1326 (0x52e)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: sonarqube-lab_default_1676484616317_68903
+Arg[3]: --startvm
+Arg[4]: 6db6cb28-6771-4169-ab69-7d315a81e193
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
